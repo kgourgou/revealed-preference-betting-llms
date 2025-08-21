@@ -255,6 +255,7 @@ def find_incremental_tipping_points(
             f"bet B is 1-p={p_b}",
             f"E_A=p * {payout_a} = {p_a * payout_a}",
             f"E_B = (1-p)* {payout_b} = {p_b * payout_b}",
+            "So now we need to figure out which bet is better",
             f"E_A-E_B = {diff_of_payouts}, so Bet {result} is better.",
         ]
 
