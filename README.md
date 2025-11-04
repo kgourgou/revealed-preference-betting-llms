@@ -2,6 +2,8 @@
 
 A research project exploring how AI models make decisions in gambling scenarios and betting problems.
 
+This is inspired by "General agents need world models", from Jonathan Richens, Tom Everitt, David Abel, ICML 2025, [https://openreview.net/forum?id=dlIoumNiXt](https://openreview.net/forum?id=dlIoumNiXt)
+
 ## Overview
 
 This project investigates the rationality and decision-making capabilities of language models when presented with probabilistic choices and expected value calculations.
